@@ -1,8 +1,11 @@
-import React from 'react'
+import React from 'react';
+import './home.css';
+import Banner from './Banner'
 
 function Home() {
     return (
-        <div>
+        <div className="home">
+            <Banner/>
             
         </div>
     )

@@ -1,21 +1,22 @@
-.search{
+.search {
     position: absolute;
     top: 35px;
     left: 25%;
     width: 100vw;
-
 }
+
 .search > h2 {
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 559px;
     padding: 10px;
+    color: black;
     background-color: white;
     position: absolute;
+    height: 50px;
     left: 0;
-    top: 380px;
-    color: black;
+    top: 330px;
 }
 
 .search > input {

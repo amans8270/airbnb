@@ -10,8 +10,8 @@
 }
 .header_icon{
     object-fit: contain;
-    margin-left: 20px;
-    height: 90px;
+    margin-left: 10px;
+    height: 80px;
 }
 .header_center{
     display: flex;
@@ -37,4 +37,9 @@
     width: 15vw;
     margin-right: 80px;
 
+
+}
+.header_right>h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
 }
